@@ -1,12 +1,17 @@
-giovanalimaoliveira{
+.giovanalimaoliveira{
     width: 24px;
     height: 24px;
     background-color: antiquewhite;
     display: inline-block;
 }
-p{
-    font-size: 24px;
+h1{
+    background-color: darksalmon;
 }
-p1{
-    display: inline-block;
+p{
+ font-size: 20px;
+}
+h2{
+    font-size: 20px;
+    text-align:center ;
+    background-color: burlywood;
 }
